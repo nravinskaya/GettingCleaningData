@@ -63,76 +63,76 @@ Depending on the problem we are trying to solve, we can use wide-format data for
 		11 tGravityAcc.std...Y  
 		12 tGravityAcc.std...Z  
 	* Body linear jerk, time domain, XYZ components, mean and standard deviation  
-		13. tBodyAccJerk.mean...X  
-		14. tBodyAccJerk.mean...Y  
-		15. tBodyAccJerk.mean...Z  
-		16. tBodyAccJerk.std...X  
-		17. tBodyAccJerk.std...Y  
-		18. tBodyAccJerk.std...Z  
+		13 tBodyAccJerk.mean...X  
+		14 tBodyAccJerk.mean...Y  
+		15 tBodyAccJerk.mean...Z  
+		16 tBodyAccJerk.std...X  
+		17 tBodyAccJerk.std...Y  
+		18 tBodyAccJerk.std...Z  
 	* Body angular velocity, time domain, XYZ components, mean and standard deviation  
-		19. tBodyGyro.mean...X  
-		20. tBodyGyro.mean...Y  
-		21. tBodyGyro.mean...Z  
-		22. tBodyGyro.std...X  
-		23. tBodyGyro.std...Y  
-		24. tBodyGyro.std...Z  
+		19 tBodyGyro.mean...X  
+		20 tBodyGyro.mean...Y  
+		21 tBodyGyro.mean...Z  
+		22 tBodyGyro.std...X  
+		23 tBodyGyro.std...Y  
+		24 tBodyGyro.std...Z  
 	* Body angular jerk, time domain, XYZ components, mean and standard deviation  
-		25. tBodyGyroJerk.mean...X  
-		26. tBodyGyroJerk.mean...Y  
-		27. tBodyGyroJerk.mean...Z  
-		28. tBodyGyroJerk.std...X  
-		29. tBodyGyroJerk.std...Y  
-		30. tBodyGyroJerk.std...Z  
+		25 tBodyGyroJerk.mean...X  
+		26 tBodyGyroJerk.mean...Y  
+		27 tBodyGyroJerk.mean...Z  
+		28 tBodyGyroJerk.std...X  
+		29 tBodyGyroJerk.std...Y  
+		30 tBodyGyroJerk.std...Z  
 	* Body linear acceleration, time domain, magnitude, mean and standard deviation  
-		31. tBodyAccMag.mean..  
-		32. tBodyAccMag.std..  
+		31 tBodyAccMag.mean..  
+		32 tBodyAccMag.std..  
 	* Gravitational acceleration, time domain, magnitude, mean and standard deviation  
-		33. tGravityAccMag.mean..  
-		34. tGravityAccMag.std..  
+		33 tGravityAccMag.mean..  
+		34 tGravityAccMag.std..  
 	* Body linear jerk, time domain, magnitude, mean and standard deviation  
-		35. tBodyAccJerkMag.mean..  
-		36. tBodyAccJerkMag.std..  
+		35 tBodyAccJerkMag.mean..  
+		36 tBodyAccJerkMag.std..  
 	* Body angular velocity, time domain, magnitude, mean and standard deviation  
-		37. tBodyGyroMag.mean..  
-		38. tBodyGyroMag.std..  
+		37 tBodyGyroMag.mean..  
+		38 tBodyGyroMag.std..  
 	* Body angular jerk, time domain, magnitude, mean and standard deviation  
-		39. tBodyGyroJerkMag.mean..  
-		40. tBodyGyroJerkMag.std..  
+		39 tBodyGyroJerkMag.mean..  
+		40 tBodyGyroJerkMag.std..  
 	* Body angular jerk, time domain, magnitude, mean and standard deviation  
-		41. tBodyGyroJerkMag.mean..  
-		42. tBodyGyroJerkMag.std..  
+		41 tBodyGyroJerkMag.mean..  
+		42 tBodyGyroJerkMag.std..  
 	* Body linear acceleration, frequency domain, XYZ components, mean and standard deviation  
-		43. fBodyAcc.mean...X  
-		44. fBodyAcc.mean...Y  
-		45. fBodyAcc.mean...Z  
-		46. fBodyAcc.std...X  
-		47. fBodyAcc.std...Y  
-		48. fBodyAcc.std...Z  
+		43 fBodyAcc.mean...X  
+		44 fBodyAcc.mean...Y  
+		45 fBodyAcc.mean...Z  
+		46 fBodyAcc.std...X  
+		47 fBodyAcc.std...Y  
+		48 fBodyAcc.std...Z  
 	* Body linear jerk, frequency domain, XYZ components, mean and standard deviation  
-		49. fBodyAccJerk.mean...X  
-		50. fBodyAccJerk.mean...Y  
-		51. fBodyAccJerk.mean...Z  
-		52. fBodyAccJerk.std...X  
-		53. fBodyAccJerk.std...Y  
-		54. fBodyAccJerk.std...Z  
+		49 fBodyAccJerk.mean...X  
+		50 fBodyAccJerk.mean...Y  
+		51 fBodyAccJerk.mean...Z  
+		52 fBodyAccJerk.std...X  
+		53 fBodyAccJerk.std...Y  
+		54 fBodyAccJerk.std...Z  
 	* Body angular velocity, frequency domain, XYZ components, mean and standard deviation  
-		55. fBodyGyro.mean...X  
-		56. fBodyGyro.mean...Y  
-		57. fBodyGyro.mean...Z  
-		58. fBodyGyro.std...X  
-		59. fBodyGyro.std...Y  
-		60. fBodyGyro.std...Z  
+		55 fBodyGyro.mean...X  
+		56 fBodyGyro.mean...Y  
+		57 fBodyGyro.mean...Z  
+		58 fBodyGyro.std...X  
+		59 fBodyGyro.std...Y  
+		60 fBodyGyro.std...Z  
 	* Body linear acceleration, frequency domain, magnitude, mean and standard deviation  
-		61. fBodyAccMag.mean..  
-		62. fBodyAccMag.std..  
+		61 fBodyAccMag.mean..  
+		62 fBodyAccMag.std..  
 	* Body linear jerk, frequency domain, magnitude, mean and standard deviation  
-		63. fBodyAccJerkMag.mean..  
-		64. fBodyAccJerkMag.std..  
+		63 fBodyAccJerkMag.mean..  
+		64 fBodyAccJerkMag.std..  
 	* Body angular velocity, frequency domain, magnitude, mean and standard deviation  
-		65. fBodyBodyGyroMag.mean..  
-		66. fBodyBodyGyroMag.std..  
+		65 fBodyBodyGyroMag.mean..  
+		66 fBodyBodyGyroMag.std..  
 	* Body angular jerk, frequency domain, magnitude, mean and standard deviation  
-		67. fBodyBodyGyroJerkMag.mean..  
-		68. fBodyBodyGyroJerkMag.std..  
+		67 fBodyBodyGyroJerkMag.mean..  
+		68 fBodyBodyGyroJerkMag.std..  
 
 - **value** - the mean values of variables from "variable" column  
