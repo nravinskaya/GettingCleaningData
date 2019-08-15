@@ -48,7 +48,7 @@ Depending on the problem we are trying to solve, we can use wide-format data for
 
 - **variable** - all possible variable types with mean() and std()  
 
-	* Body linear acceleration, time domain, XYZ components, mean and standard deviation  
+        * Body linear acceleration, time domain, XYZ components, mean and standard deviation  
 		1. tBodyAcc.mean...X  
 		2. tBodyAcc.mean...Y  
 		3. tBodyAcc.mean...Z  
