@@ -47,13 +47,15 @@ Depending on the problem we are trying to solve, we can use wide-format data for
 	* LAYING  
 
 - **variable** - all possible variable types with mean() and std()  
+
 	* Body linear acceleration, time domain, XYZ components, mean and standard deviation  
-	1. tBodyAcc.mean...X  
-	2. tBodyAcc.mean...Y  
-	3. tBodyAcc.mean...Z  
-	4. tBodyAcc.std...X  
-	5. tBodyAcc.std...Y  
-	6. tBodyAcc.std...Z  
+		1. tBodyAcc.mean...X  
+		2. tBodyAcc.mean...Y  
+		3. tBodyAcc.mean...Z  
+		4. tBodyAcc.std...X  
+		5. tBodyAcc.std...Y  
+		6. tBodyAcc.std...Z  
+
 	* Gravitational acceleration, time domain, XYZ components, mean and standard deviation  
 		7. tGravityAcc.mean...X  
 		8. tGravityAcc.mean...Y  
