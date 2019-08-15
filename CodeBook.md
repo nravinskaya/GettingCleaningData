@@ -56,12 +56,12 @@ Depending on the problem we are trying to solve, we can use wide-format data for
 		6 tBodyAcc.std...Z  
 
 	* Gravitational acceleration, time domain, XYZ components, mean and standard deviation  
-		7. tGravityAcc.mean...X  
-		8. tGravityAcc.mean...Y  
-		9. tGravityAcc.mean...Z  
-		10. tGravityAcc.std...X  
-		11. tGravityAcc.std...Y  
-		12. tGravityAcc.std...Z  
+		7 tGravityAcc.mean...X  
+		8 tGravityAcc.mean...Y  
+		9 tGravityAcc.mean...Z  
+		10 tGravityAcc.std...X  
+		11 tGravityAcc.std...Y  
+		12 tGravityAcc.std...Z  
 	* Body linear jerk, time domain, XYZ components, mean and standard deviation  
 		13. tBodyAccJerk.mean...X  
 		14. tBodyAccJerk.mean...Y  
